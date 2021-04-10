@@ -1,0 +1,23 @@
+(** @canonical P5.Builtins *)
+module Builtins = P5__Builtins
+
+(** @canonical P5.Eval *)
+module Eval = P5__Eval
+
+(** @canonical P5.EvalUtils *)
+module EvalUtils = P5__EvalUtils
+
+(** @canonical P5.Lexer *)
+module Lexer = P5__Lexer
+
+(** @canonical P5.Parser *)
+module Parser = P5__Parser
+
+(** @canonical P5.SmallCTypes *)
+module SmallCTypes = P5__SmallCTypes
+
+(** @canonical P5.TokenTypes *)
+module TokenTypes = P5__TokenTypes
+
+(** @canonical P5.Utils *)
+module Utils = P5__Utils

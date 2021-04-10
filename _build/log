@@ -1,0 +1,4 @@
+# dune build @install --root .
+# OCAMLPARAM: unset
+$ /usr/bin/getconf _NPROCESSORS_ONLN > /var/folders/05/xj957dfn10d27k8gh0wfp2v80000gn/T/dune706dee.output 2> /dev/null
+$ /Users/michael/.opam/4.07.0/bin/ocamlc.opt -config > /var/folders/05/xj957dfn10d27k8gh0wfp2v80000gn/T/dunefe9634.output

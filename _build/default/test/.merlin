@@ -1,0 +1,12 @@
+EXCLUDE_QUERY_DIR
+B /Users/michael/.opam/4.07.0/lib/bytes
+B /Users/michael/.opam/4.07.0/lib/oUnit
+B /Users/michael/.opam/4.07.0/lib/ocaml
+B ../_build/default/src/.p5.objs/byte
+B ../_build/default/test/.public.eobjs/byte
+S /Users/michael/.opam/4.07.0/lib/bytes
+S /Users/michael/.opam/4.07.0/lib/oUnit
+S /Users/michael/.opam/4.07.0/lib/ocaml
+S ../src
+S .
+FLG -w -40

@@ -1,0 +1,6 @@
+EXCLUDE_QUERY_DIR
+B /Users/michael/.opam/4.07.0/lib/ocaml
+B ../_build/default/src/.p5.objs/byte
+S /Users/michael/.opam/4.07.0/lib/ocaml
+S .
+FLG -open P5 -w -40
